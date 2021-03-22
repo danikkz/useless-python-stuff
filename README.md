@@ -1,4 +1,2 @@
 # useless-python-stuff
-h
-very h
-you can read the files if u want (do it at own risk)
+Nothing is here yet bcoz an error occurs when i try to put the folder here (only 2 of files load)
